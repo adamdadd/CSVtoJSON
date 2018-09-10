@@ -1,6 +1,6 @@
 # CSVtoJSON
 CSV to JSON file converter written using core python
-![ExampleScreenshot](https://github.com/adamdadd/CSVtoJSON/CSVtoJSON.png)
+![ExampleScreenshot](https://github.com/adamdadd/CSVtoJSON/blob/master/CSVtoJSON.png)
 ## Requirements
 
 Requires python 3 to be installed on your system
